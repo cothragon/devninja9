@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I believe in the power of technology to make lives better.
 
 I'm a software engineer who is passionate about making Mobile & Web Applications, believing in the power of technologies.
 
