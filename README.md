@@ -20,10 +20,10 @@ I'm a software engineer who is passionate about making Mobile & Web Applications
 
 I'm working as a full-time remote freelancer and enjoy my life by collaborating with teammates and learning new technologies every day.
 
-It is fun to see how my daily commit makes this. ⏰
+It is fun to see how my daily commit makes this.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devninja9)](https://github.com/anuraghazra/github-readme-stats)
 
-Please feel free to contact me and let me know your challenges. ❓
+Please feel free to contact me and let me know your challenges.
 
-Let's figure out solutions together.🎯
+🎯Let's figure out solutions together.🎯
