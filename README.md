@@ -18,12 +18,12 @@ I believe in the power of technology to make lives better.
 
 I'm a software engineer who is passionate about making Mobile & Web Applications, believing in the power of technologies.
 
-I'm working as a full-time remote freelancer and enjoy my life by collaborating with teammates and leanring new technologies every day.
+I'm working as a full-time remote freelancer and enjoy my life by collaborating with teammates and learning new technologies every day.
 
-I enjoy very much how my daily commit changes below summary!
+It is fun to see how my daily commit makes this. ⏰
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devninja9)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm looking for challenges of complicated issus and collaborations to get solutions.
+Please feel free to contact me and let me know your challenges. ❓
 
-Please feel free to reach me and let me hear your challenges!
+Let's figure out solutions together.🎯
