@@ -28,6 +28,10 @@ It is fun to see how my daily commit makes this.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devninja9)](https://github.com/anuraghazra/github-readme-stats)
 
+![Billy's github stats](https://github-readme-stats.vercel.app/api?username=devninja9&show_icons=true&theme=vue)
+
+
+
 Please feel free to contact me and let me know your challenges. 
 
 🎯Let's figure out solutions together.🎯
